@@ -1,0 +1,2 @@
+include ':app', ':modernstepperlibrary'
+rootProject.name='ModernStepper'
